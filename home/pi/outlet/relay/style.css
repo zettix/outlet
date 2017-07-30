@@ -1,0 +1,9 @@
+on_state {
+  color: black;
+  background-color: yellow;
+}
+
+off_state {
+  color: white;
+  background-color: black;
+}
